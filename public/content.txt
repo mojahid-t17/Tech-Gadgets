@@ -1,0 +1,11 @@
+1. change the navbar background color and text color when the route is not Home
+2.  fetch gadgets from json data and display all data in card 
+3. filter data by category btn . category Btn are display based on json data.
+4. diplay a single gadget Details when clicked on details button in a card
+5.save product by addToCart and WishList btn to localstorage and display from localstorage
+6. Use  props drealing multileveling components to display the localstorage items
+7. display the carts in dashboard. Delete the carts after clicked remove  btn form localstorage and ui.
+8. calculate the total Price of stored cart and display it.
+9. display the cart in dashboard on descinding order when clicked on sort by price button
+
+ 

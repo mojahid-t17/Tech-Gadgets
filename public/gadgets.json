@@ -1,0 +1,174 @@
+
+[
+    {
+      "product_id": "P001",
+      "product_title": "Apple iPhone 15 Pro Max",
+      "product_image": "https://i.ibb.co.com/6PqMm1D/pexels-luckysam-47261.jpg",
+      "category": "Smartphones",
+      "price": 1299,
+      "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max.",
+      "specification": [
+        "6.7-inch Super Retina XDR display",
+        "A17 Bionic chip",
+        "Triple-camera system (48MP Main, 12MP Telephoto, 12MP Ultrawide)",
+        "LiDAR Scanner",
+        "Up to 2TB storage"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "P002",
+      "product_title": "Samsung Galaxy S23 Ultra",
+      "product_image": "https://i.ibb.co.com/1zsmryx/pexels-madebymath-249324.jpg",
+      "category": "Smartphones",
+      "price": 1199,
+      "description": "The flagship Galaxy smartphone with ultimate camera performance.",
+      "specification": [
+        "6.8-inch AMOLED QHD+ display",
+        "Snapdragon 8 Gen 2 processor",
+        "200MP quad-camera setup",
+        "5000mAh battery",
+        "Stylus support"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "P003",
+      "product_title": "Dell XPS 15",
+      "product_image": "https://i.ibb.co.com/0X4wNWP/pexels-morningtrain-18105.jpg",
+      "category": "Laptops",
+      "price": 1999,
+      "description": "Premium ultrabook with a 15-inch InfinityEdge display and high performance.",
+      "specification": [
+        "15.6-inch 4K OLED display",
+        "Intel Core i9 processor",
+        "32GB RAM",
+        "1TB SSD",
+        "NVIDIA GeForce RTX 3050 Ti"
+      ],
+      "availability": false,
+      "rating": 4.5
+    },
+    {
+      "product_id": "P004",
+      "product_title": "Sony WH-1000XM5",
+      "product_image": "https://i.ibb.co.com/1QNWYDM/pexels-garrettmorrow-610945.jpg",
+      "category": "Headphones",
+      "price": 399,
+      "description": "Industry-leading noise-canceling headphones for music enthusiasts.",
+      "specification": [
+        "Over-ear design",
+        "30-hour battery life",
+        "Quick charge (10 mins for 5 hours)",
+        "Adaptive Sound Control",
+        "Hi-Res audio support"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "P005",
+      "product_title": "Canon EOS R6",
+      "product_image": "https://i.ibb.co.com/ysQtTGW/pexels-marx-ilagan-1091294.jpg",
+      "category": "Cameras",
+      "price": 2499,
+      "description": "A full-frame mirrorless camera for professionals and enthusiasts.",
+      "specification": [
+        "20MP CMOS sensor",
+        "4K UHD video recording",
+        "Dual Pixel AF II",
+        "In-body image stabilization",
+        "Weather-resistant body"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "P006",
+      "product_title": "Asus ROG Zephyrus G14",
+      "product_image": "https://i.ibb.co.com/PFPQwSX/pexels-lastly-699122.jpg",
+      "category": "Laptops",
+      "price": 1599,
+      "description": "Compact gaming laptop with powerful performance.",
+      "specification": [
+        "14-inch QHD+ display with 120Hz",
+        "AMD Ryzen 9 processor",
+        "16GB RAM",
+        "1TB SSD",
+        "NVIDIA RTX 4060"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "P007",
+      "product_title": "Bose SoundLink Revolve+",
+      "product_image": "https://i.ibb.co.com/HY8zB9k/pexels-marinko-krsmanovic-700471-2651794.jpg",
+      "category": "Speakers",
+      "price": 329,
+      "description": "Portable 360-degree Bluetooth speaker with premium sound quality.",
+      "specification": [
+        "360-degree sound",
+        "17-hour battery life",
+        "Water-resistant design",
+        "Voice assistant integration",
+        "USB-C charging"
+      ],
+      "availability": false,
+      "rating": 4.7
+    },
+    {
+      "product_id": "P008",
+      "product_title": "Nike Air Jordan 1",
+      "product_image": "https://i.ibb.co.com/br2M3jg/pexels-mnzoutfits-1598508-1.jpg",
+      "category": "Footwear",
+      "price": 179,
+      "description": "Iconic basketball shoes with timeless style and comfort.",
+      "specification": [
+        "Leather upper",
+        "Rubber outsole for durability",
+        "Air-Sole cushioning",
+        "High-top design",
+        "Classic colorways"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "P009",
+      "product_title": "LG OLED C3 55-inch",
+      "product_image": "https://i.ibb.co.com/m97xbP1/pexels-anete-lusina-5721862.jpg",
+      "category": "TVs",
+      "price": 1499,
+      "description": "Stunning OLED TV with true blacks and vivid colors.",
+      "specification": [
+        "55-inch 4K OLED display",
+        "120Hz refresh rate",
+        "HDR10+ and Dolby Vision",
+        "AI-powered picture processing",
+        "HDMI 2.1 ports"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "P010",
+      "product_title": "Amazon Echo Show 10",
+      "product_image": "https://i.ibb.co.com/pd0Wh0W/pexels-binyaminmellish-106399.jpg",
+      "category": "Smart Home",
+      "price": 249,
+      "description": "Smart display with Alexa and a rotating screen.",
+      "specification": [
+        "10.1-inch HD screen",
+        "Motion tracking",
+        "Smart home hub integration",
+        "Voice and video calls",
+        "Stereo speakers"
+      ],
+      "availability": true,
+      "rating": 4.7
+    }
+  ]
+  
