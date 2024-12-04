@@ -1,7 +1,7 @@
 import { createContext } from "react";
+import { Helmet } from 'react-helmet-async';
 import { NavLink, Outlet, useLoaderData } from "react-router-dom";
 import { getCartsFromLocalStorage, getWishLIst } from "../../Utilities/localstorage";
-
 // eslint-disable-next-line react-refresh/only-export-components
 export  const LevelContext=createContext()
 const Dashboard = () => {
@@ -18,6 +18,11 @@ const Dashboard = () => {
 //   console.log(filteredWishList)
     return (
         <div  className="mt-28 md:max-w-5xl mx-auto ">
+          <Helmet>
+            <title>
+              Gadgets|Dashboard
+            </title>
+          </Helmet>
             <h1 className="text-5xl text-emerald-500 text-center font-bold">
             Dashboard
       </h1>
