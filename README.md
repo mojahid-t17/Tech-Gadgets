@@ -19,9 +19,9 @@ React Gadgets  is a simple website designed for a Ecommerce Gadgets. The website
 9. display the cart in dashboard on descinding order when clicked on sort by price button
 
 ## Technologies Used
--[HTML, CSS]
--[Tailwind]
--[React js]
+- [ HTML , CSS ]
+- [Tailwind]
+- [React js]
   
 
 
